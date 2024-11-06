@@ -8,8 +8,9 @@ using System.ComponentModel;
 
 
 namespace ContosoSuitesWebAPI.Services;
-namespace Microsoft.SemanticKernel;
-namespace System.ComponentModel;
+
+//namespace Microsoft.SemanticKernel;
+//namespace System.ComponentModel;
 /// <summary>
 /// The database service for querying the Contoso Suites database.
 /// </summary>
